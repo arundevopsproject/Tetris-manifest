@@ -3,13 +3,13 @@
 # Tetris-manifest
 
     environment {
-      GIT_REPO_NAME  = "Project-3-DevSecOps-Tetris-manifest"
+      GIT_REPO_NAME  = "Tetris-manifest"
       GIT_USER_NAME  = "arundevopsproject"
     }
     
     stage('Checkout Code') {
       steps {
-        git branch: 'main', url: 'https://github.com/arundevopsproject/Project-3-DevSecOps-Tetris-manifest.git'
+        git branch: 'main', url: 'https://github.com/arundevopsproject/Tetris-manifest.git'
       }
     }
     stage('Update Deployment File') {
