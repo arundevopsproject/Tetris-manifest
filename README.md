@@ -1,4 +1,4 @@
-#Image updater stage
+# Image updater stage
 
 # Tetris-manifest
 
