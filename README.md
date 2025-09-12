@@ -4,7 +4,7 @@
 
   
 
-envirironment {
+environment {
     GIT_REPO_NAME   = "Project-3-DevSecOps-Tetris-manifest"
     GIT_USER_NAME   = "arundevopsproject"
 }
